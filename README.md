@@ -194,6 +194,7 @@ https://socialistic.ai/zh/skill/awesome-ai-persona-skills-861cfd?utm_source=gith
 
 # 关于作者
  **momozi**  — AI 博主，AI行业技术产品经理，AI 公众号「momo子讲AI」主理人
+[个人主页：https://momozi1996.github.io/](https://momozi1996.github.io/)
 
 16岁高考，省前0.3%，北理本硕<br>
 ⭐某大模型公司-基座Agent训练技术PM<br>
